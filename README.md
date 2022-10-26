@@ -5,6 +5,7 @@ A Quest System Organization
 ## Level 1
 
 1.Human NPC 
+
 Gündelik işlerimizin ve gölgelerin içerisinde size bir hayat bahşedildi. Yıllar yılları kovaladı, geçmiş hikayelerde dwarfların iyi savaşçılar olduğu söylenir. Şimdi bunları gösterme zamanı!
 
 - Dwarf
