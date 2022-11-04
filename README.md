@@ -27,7 +27,7 @@ Sadece hikayelerde olduğunu bildiğimiz yaratıklar buralara kadar geldi ve biz
 
 - Dwarf
 
-Daha öncesinde böyle bir tecrübe edinmemiştim. Borcumuzu ödememize gelirsek,biz cüceler kimse borçlu kalmayız! Eğer konu savaşsa bu problemin çözümü için savaşacağım!
+Daha öncesinde böyle bir tecrübe edinmemiştim. Borcumuzu ödememize gelirsek,biz cüceler kimseye borçlu kalmayız! Eğer konu savaşsa bu problemin çözümü için savaşacağım!
 
 - Human NPC
 
