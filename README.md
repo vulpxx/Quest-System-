@@ -15,6 +15,24 @@ Dwarflar asilce ve kahramanca yaşamlarıylada bilinir. Ama bana öğretilen en 
 - Human NPC
 
 Sadece hikayelerde olduğunu bildiğimiz yaratıklar buralara kadar geldi ve bize saldırmaya başladı, şimdilik bu kadar yeterli! ……. İsimli yaratığı yok ederek başlayabiliriz.
+ 
+
+
+## Level 2
+
+1.Human NPC
+ 
+Şimdilik senden sadece güvenliğimizi sağlamak amacıyla, savaşmaya devam etmeni isteyeceğim. Daha sonraysa neden bu şekilde hızlı bir şekilde yaratıkların istilasının başladığını, araştıracağız.
+ 
+
+- Dwarf
+
+Daha öncesinde böyle bir tecrübe edinmemiştim. Borcumuzu ödememize gelirsek,biz cüceler kimse borçlu kalmayız! Eğer konu savaşsa bu problemin çözümü için savaşacağım!
+
+- Human NPC
+
+Savaşmak insanlar için de her zaman bir çözüm yolu olmuştur ama insanların savaşmak için genelde bir sebepe ihtiyacı vardır. Siz cüceler o konuda farklısınız anlaşılan. Herneyse …. isimli yaratığı kesmeni isteyeceğim..
+
 
 
 
