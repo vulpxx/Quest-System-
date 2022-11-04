@@ -31,7 +31,7 @@ Daha öncesinde böyle bir tecrübe edinmemiştim. Borcumuzu ödememize gelirsek
 
 - Human NPC
 
-Savaşmak insanlar için de her zaman bir çözüm yolu olmuştur ama insanların savaşmak için genelde bir sebepe ihtiyacı vardır. Siz cüceler o konuda farklısınız anlaşılan. Herneyse …. isimli yaratığı kesmeni isteyeceğim..
+Savaşmak insanlar için de her zaman bir çözüm yolu olmuştur ama insanların savaşmak için genelde bir sebebe ihtiyacı vardır. Siz cüceler o konuda farklısınız anlaşılan. Herneyse …. isimli yaratığı kesmeni isteyeceğim..
 
 
 
