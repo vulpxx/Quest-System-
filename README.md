@@ -35,6 +35,44 @@ Savaşmak insanlar için de her zaman bir çözüm yolu olmuştur ama insanları
 
 
 
+## Level 3
+
+Dwarf NPC
+ 
+Duydum ki insanları canavarlara karşı korumaya başlamışsın. Unutmamalısın ki bizim atalarımız karanlığın ordusuna karşı savaşırken kimse bize yardım etmemişti!
+ 
+
+- Dwarf
+
+İyi ya o halde artık bizi de anlamaya başlamışlardır, ben sadece insanlara karşı olan borcumuzu ödüyorum..
+
+
+- Dwarf NPC
+
+Borç mu? Biz cücelerin kimseye bir borcumuz yoktur! İnsanlar  en değerli hazinelerimizi elflerle beraber bizden zorla aldıklarını sana henüz anlatmadım. Ama madem savaş yaklaşıyor seni önce eğitmemiz gerekiyor, Şimdi …. Yaratığı avlayarak pratiğini artıralım.
+
+
+
+## Level 4
+
+Elf NPC
+ 
+Sen o olmasın, karanlığın ilerlediği zamanda karanlığa karşı bir pırıltı. Kendi topraklarından uzakta önemsiz bir köyde asil bir dwarfın insanları koruyacağını, kim bilebilirdi ki?
+ 
+
+- Dwarf
+
+Dwarflar savaştan çekinmez! Sizi burada ilk kez görüyorum. Büyücü müsünüz yoksa sıradan bir elf mi?
+
+- Elf NPC
+
+Ben bir elfim … isimli yaratık bizim için değerli bir şey taşıyor onu bize getirirsen, daha iyi bir savaşçı olabilmen için senin yeni bir yetenek kazanmanı sağlayacağım..
+
+
+
+
+
+
 
 
 
