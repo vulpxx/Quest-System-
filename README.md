@@ -22,7 +22,7 @@ Sadece hikayelerde olduğunu bildiğimiz yaratıklar buralara kadar geldi ve biz
 
 1.Human NPC
  
-Şimdilik senden sadece güvenliğimizi sağlamak amacıyla, savaşmaya devam etmeni isteyeceğim. Daha sonraysa neden bu şekilde hızlı bir şekilde yaratıkların istilasının başladığını, araştıracağız.
+Şimdilik senden sadece güvenliğimizi sağlamak amacıyla, savaşmaya devam etmeni isteyeceğim. Daha sonraysa neden karanlığın bizim köyümüze geldiğini öğreneceğim.
  
 
 - Dwarf
@@ -49,7 +49,7 @@ Duydum ki insanları canavarlara karşı korumaya başlamışsın. Unutmamalıs�
 
 - Dwarf NPC
 
-Borç mu? Biz cücelerin kimseye bir borcumuz yoktur! İnsanlar  en değerli hazinelerimizi elflerle beraber bizden zorla aldıklarını sana henüz anlatmadım. Ama madem savaş yaklaşıyor seni önce eğitmemiz gerekiyor, Şimdi …. Yaratığı avlayarak pratiğini artıralım.
+Borç mu? Biz cücelerin kimseye bir borcumuz yoktur! Savaştan sonra atalarımız yeni yurtlar edinmeye çalıştı, elfler ve insanlar bunu fırsat bilerek atalarımızın hazinelerini onlara yaşam alanı sağlama karşılığında zorla aldılar zaten. Bunu sana henüz anlatmadım. Ama madem savaş yaklaşıyor seni önce eğitmemiz gerekiyor, Şimdi …. Yaratığı avlayarak pratiğini artıralım.
 
 
 
@@ -66,8 +66,25 @@ Dwarflar savaştan çekinmez! Sizi burada ilk kez görüyorum. Büyücü müsün
 
 - Elf NPC
 
-Ben bir elfim … isimli yaratık bizim için değerli bir şey taşıyor onu bize getirirsen, daha iyi bir savaşçı olabilmen için senin yeni bir yetenek kazanmanı sağlayacağım..
+Ben bir elfim … isimli yaratık bizim için değerli bir şey taşıyor onu bize getirirsen, daha iyi bir savaşçı olabilmen için senin yeni bir yetenek kazanmanı sağlayacağım.. 
 
+## Level 5
+
+- Dwarf
+
+Elflerin daha önce insan köylerinde gezdiğini hiç duymamıştım.
+
+- Elf NPC
+
+Biz elfler karanlığın buradaki dostlarımıza zarar vereceğini biliyorduk o yüzden geldik. Aynı zamanda sürekli işittiğimiz söylentileri de kontrol etmek istedik.
+
+- Dwarf 
+
+Benim atalarıma neden savaşta yardım için gelmediniz o halde? Ayrıca söylenti dediniz, sıradan bir insan köyü ile alakalı ne söylentisi olabilir?
+
+- Elf NPC
+
+Çünkü Dwarflar ve elfler çok uzun süre bazı sebeplerden dolayı kavga etti. Şimdilik bu kadar yeterli … isimli yaratık bizim için özel bir eşya taşıyor. Onu bize getirirsen sana özel bir yetenek hediye edeceğim.
 
 
 
