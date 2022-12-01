@@ -87,7 +87,29 @@ Benim atalarıma neden savaşta yardım için gelmediniz o halde? Ayrıca söyle
 Çünkü Dwarflar ve elfler çok uzun süre bazı sebeplerden dolayı kavga etti. Şimdilik bu kadar yeterli … isimli yaratık bizim için özel bir eşya taşıyor. Onu bize getirirsen sana özel bir yetenek hediye edeceğim.
 
 
+## Level 6 
 
+- Dwarf NPC
+ 
+Elflerin köye geldiklerini duydum, bu konu hakkında bir bilgin var mı?
+ 
+
+- Dwarf
+
+Şey.. evet, onlarla konuştum ve tanıştım.
+
+
+- Dwarf NPC
+
+Elflerin bizim düşmanımız olduğu konusunda anlaştığımızı sanıyordum. Onlar seninle tesadüfen konuşmazlar, seni süslü cümleler ve tatlı dilleriyle ikna ederler. Bizler hakkında umarım bir şeyler anlatmıyorsun.
+
+- Dwarf
+
+Yok hayır, onlara hiç bir şeyden bahsetmem. Meraklanma, Elflerin düşmanımız olduğunu biliyorum. Benden bazı şeyler istediler ve karşılığında bana hediyeler ve yeni yetenekler kazandırdılar.
+
+- Dwarf NPC
+
+O zaman şimdi aynı şekilde onlarla tekrardan iletişime geçmelisin, neden burada olduklarını anlamamız için istediklerini yapmalısın. Neden burada olduklarını öğrendikten sonra, Elflerden korunmak için her türlü yönteme de hazırlıklı olmalısın! Görüşmek üzere.
 
 
 
